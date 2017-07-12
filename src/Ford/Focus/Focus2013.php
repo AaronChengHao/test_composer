@@ -1,6 +1,6 @@
 <?php
  
-namespace Aaron\Focus;
+namespace Aarons\Focus;
  
 class Focus2013
 {
