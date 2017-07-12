@@ -1,5 +1,5 @@
 {
-    "name": "test/test",
+    "name": "Aaron/test",
     "description": "test",
     "authors": [
         {
@@ -13,10 +13,10 @@
     },
     "autoload": {
         "psr-4": {
-            "Fordaadas\\Escape\\": "src/Ford/Escape",
-            "Fordaadas\\Fusion\\": "src/Ford/Fusion",
-            "Fordaadas\\Focus\\": "src/Ford/Focus",
-            "Fordaadas\\Fiesta\\": "src/Ford/Fiesta"
+            "Aaron\\Escape\\": "src/Ford/Escape",
+            "Aaron\\Fusion\\": "src/Ford/Fusion",
+            "Aaron\\Focus\\": "src/Ford/Focus",
+            "Aaron\\Fiesta\\": "src/Ford/Fiesta"
         }
     }
 }
