@@ -13,10 +13,10 @@
     },
     "autoload": {
         "psr-4": {
-            "Forda\\Escape\\": "src/Ford/Escape",
-            "Forda\\Fusion\\": "src/Ford/Fusion",
-            "Forda\\Focus\\": "src/Ford/Focus",
-            "Forda\\Fiesta\\": "src/Ford/Fiesta"
+            "Fordaadas\\Escape\\": "src/Ford/Escape",
+            "Fordaadas\\Fusion\\": "src/Ford/Fusion",
+            "Fordaadas\\Focus\\": "src/Ford/Focus",
+            "Fordaadas\\Fiesta\\": "src/Ford/Fiesta"
         }
     }
 }
