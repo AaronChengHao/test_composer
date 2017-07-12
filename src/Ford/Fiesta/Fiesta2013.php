@@ -1,6 +1,6 @@
 <?php
 
-namespace Ford\Fiesta;
+namespace Aaron\Fiesta;
 
 class Fiesta2013
 {

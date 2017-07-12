@@ -1,6 +1,6 @@
 <?php
  
-namespace Ford\Fusion;
+namespace Aaron\Fusion;
  
 class Fusion2013
 {
